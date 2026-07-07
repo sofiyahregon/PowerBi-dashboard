@@ -19,8 +19,19 @@ This Power BI dashboard was created during my internship to analyze Turn Around 
 
 ## 📷 Dashboard Preview
 
-(Add screenshot here later)
 
+
+### Dashboard Overview
+
+![Dashboard 1](dashboard.png)
+
+### KPI Analysis
+
+![Dashboard 2](dashboard2.png)
+
+### Detailed Analysis
+
+![Dashboard 3](dashboard3.png)
 ## 📄 Files
 
 - Turn around time(TAT) Report Final.pbix
