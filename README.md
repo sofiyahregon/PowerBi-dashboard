@@ -1,6 +1,4 @@
-# PowerBi-dashboard
-# 📊 Turn Around Time (TAT) Dashboard
-
+# Turn Around Time (TAT) Performance Dashboard
 ## 📌 Project Overview
 
 This Power BI dashboard was created during my internship to analyze Turn Around Time (TAT) performance.
